@@ -1059,7 +1059,7 @@ c-85 19 -183 20 -234 2z m166 -93 c4 -2 7 -76 7 -164 0 -160 0 -160 -26 -184
     function showMiniCart() {
         cart = {}
 
-        $.getJSON('/json/list.json', function (data) {
+        $.getJSON('./json/list.json', function (data) {
             var goods = data; //все товары в массиве
             // console.log(goods);
             checkCart();
