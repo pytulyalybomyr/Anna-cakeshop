@@ -1,0 +1,485 @@
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake4.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake1.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake2.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake3.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake5.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake6.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake7.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake8.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake9.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake10.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake11.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="katalog-card" data-cart="biskit">
+                    <div class="katalog-card_out">
+                        <img class="katalog-card__img" src="/img/cake12.jpg" alt="">
+                        <div class="katalog-card__text">
+                            <h1><span>Бісквітний торт</span> з малюнком</h1>
+                            <div class="katalog-card__text-stars">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                                <img src="img/star.svg" alt="">
+                            </div>
+                            <div class="katalog-card__text-price">
+                                <h2>1000 UAN</h2>
+                            </div>
+                            <div class="katalog-card__text-main">
+                                <div class="katalog-card__text-button">
+                                    <!-- <img src="img/cart.svg" alt=""> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+                ,
+    "119989012002" : {
+      "nameS" : "Лимоны",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake3.jpg"
+    },
+    "119989012003" : {
+      "nameS" : "Клубника",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake4.jpg"
+    },
+    "119989012004" : {
+      "nameS" : "Клубника",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake5.jpg"
+    },
+    "119989012005" : {
+      "nameS" : "Клубника",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake6.jpg"
+    },
+    "119989012006" : {
+      "nameS" : "Клубника",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake7.jpg"
+    },
+    "119989012007" : {
+      "nameS" : "Клубника",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake8.jpg"
+    },
+    "119989012008" : {
+      "nameS" : "Клубника",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake9.jpg"
+    },
+    "119989012009" : {
+      "nameS" : "Клубника",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake2.jpg"
+    },
+    "1199890120010" : {
+      "nameS" : "Клубника",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake10.jpg"
+    },
+    "1199890120011" : {
+      "nameS" : "Клубника",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake11.jpg"
+    },
+    "1199890120012" : {
+      "nameS" : "Клубника",
+      "name": " з малюнком",
+      "cost" : 1000,
+      "image" : "/img/cake12.jpg"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <?php
+
+
+// here we check if all fields are filled.
+$required = array('name', 'email', 'message', 'number', 'oblast', 'city', 'choiceca', 'choicefill', 'count', 'textcake', 'wishes');
+$error = false;
+foreach ($required as $field) {
+	if (empty($_REQUEST[$field])) {
+		$error = true;
+	}
+}
+
+//if something is not filled(empty) and error is true
+if ($error) {
+	echo 'this is miss';
+}
+// if everything is filled then we execute the mail function
+else {
+
+	$name = $_REQUEST['name'];
+	$email = $_REQUEST['email'];
+	$number = $_REQUEST['number'];
+	$oblast = $_REQUEST['oblast'];
+	$city = $_REQUEST['city'];
+	$choiceca = $_REQUEST['choiceca'];
+	$choicefill = $_REQUEST['choicefill'];
+	$count = $_REQUEST['count'];
+	$textcake = $_REQUEST['textcake'];
+	$wishes = $_REQUEST['wishes'];
+
+	$fullmessage = "Ім'я: " . $name . "\n" .
+		"Номер: " . $number . "\n" .
+		"Пошта: " . $email . "\n" .
+		"Область: " . $oblast . "\n" .
+		"Місто: " . $city . "\n" .
+		"Який торт: " . $choiceca . "\n" .
+		"Який смак: " . $choicefill . "\n";
+	// "Кількість: " . $count . "\n" .
+	// "Що треба написати: " . $textcake . "\n" .
+	// "Побажання: " . $wishes . "\n";
+
+	// Set your email address where you want to receive emails.
+	$to = 'pytulyalybomyr@gmail.com';
+	$subject = 'E-MAIL.COM';
+	$send_email = mail($to, $subject, $fullmessage, $email);
+
+
+	if ($send_email == false) {
+		echo 'this is error';
+	} else {
+		echo 'this is success';
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?php
+
+
+// here we check if all fields are filled.
+$required = array('name', 'email', 'number', 'namefull', 'count', 'price');
+$error = false;
+foreach ($required as $field) {
+    if (empty($_REQUEST[$field])) {
+        $error = true;
+    }
+}
+
+//if something is not filled(empty) and error is true
+if ($error) {
+    echo 'this is miss';
+}
+// if everything is filled then we execute the mail function
+else {
+    $name = $_REQUEST['name'];
+    $email = $_REQUEST['email'];
+    $number = $_REQUEST['number'];
+    $namefull = $_REQUEST['namefull'];
+    $count = $_REQUEST['count'];
+    $price = $_REQUEST['price'];
+
+    $msg = "
+Ім'я: $name
+Номер: $number 
+Пошта: $email
+Торт: $namefull
+Кількість: $count
+Загальна ціна: $price";
+
+    // Set your email address where you want to receive emails.
+    $to = 'Pytulya@outlook.com';
+    $subject = 'E-MAIL.COM';
+    $send_email = mail($to, $subject, $msg, $email);
+
+
+    if ($send_email == false) {
+        echo 'this is error';
+    } else {
+        echo 'this is success';
+    }
+}
