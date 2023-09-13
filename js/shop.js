@@ -8,7 +8,7 @@ $('document').ready(function () {
 
 function loadGoods() {
     //загружаю товары на страницу
-    $.getJSON('../json/list.json', function (data) {
+    $.getJSON('./json/list.json', function (data) {
         console.log(data);
         var out = '';
         for (var key in data) {
