@@ -105,7 +105,7 @@ a {
   position: fixed;
   bottom: 15px;
   right: 15px;
-  background: url(/img/cart-white.svg) center center no-repeat rgba(95, 158, 160, 0.7);
+  background: url(./img/cart-white.svg) center center no-repeat rgba(95, 158, 160, 0.7);
   border-radius: 50px;
   width: 70px;
   height: 70px;
@@ -516,7 +516,7 @@ p {
   margin-top: 14px;
 }
 .katalog-cards .katalog-card__text-button {
-  background: url(/img/cart-white.svg) center center no-repeat cadetblue;
+  background: url(./img/cart-white.svg) center center no-repeat cadetblue;
   border-radius: 50px;
   width: 50px;
   height: 50px;
@@ -528,7 +528,7 @@ p {
 }
 .katalog-cards .katalog-card__text-button:hover {
   transition: 0.7s;
-  background: url(/img/cart-white.svg) center center no-repeat cadetblue;
+  background: url(./img/cart-white.svg) center center no-repeat cadetblue;
   border-bottom-right-radius: 0px;
   width: 55px;
   height: 55px;
@@ -557,7 +557,7 @@ p {
 }
 .katalog-cards .katalog-card li::after {
   content: "";
-  background: url(/img/Check.png) no-repeat;
+  background: url(./img/Check.png) no-repeat;
   background-position: center;
   width: 20px;
   height: 20px;
@@ -590,7 +590,7 @@ p {
 }
 .katalog-cards .katalog-card:hover .katalog-card__text-button {
   transition: 0.5s;
-  background: url(/img/cart-white.svg) center center no-repeat cadetblue;
+  background: url(./img/cart-white.svg) center center no-repeat cadetblue;
   border-bottom-right-radius: 0px;
   width: 55px;
   height: 55px;
@@ -623,7 +623,7 @@ p {
   margin-top: 14px;
 }
 .katalog-cards .katalog-card:hover__text-button {
-  background: url(/img/cart-white.svg) center center no-repeat cadetblue;
+  background: url(./img/cart-white.svg) center center no-repeat cadetblue;
   border-radius: 50px;
   width: 50px;
   height: 50px;
@@ -635,7 +635,7 @@ p {
 }
 .katalog-cards .katalog-card:hover__text-button:hover {
   transition: 0.7s;
-  background: url(/img/cart-white.svg) center center no-repeat cadetblue;
+  background: url(./img/cart-white.svg) center center no-repeat cadetblue;
   border-bottom-right-radius: 0px;
   width: 55px;
   height: 55px;
@@ -664,7 +664,7 @@ p {
 }
 .katalog-cards .katalog-card:hover li::after {
   content: "";
-  background: url(/img/Check.png) no-repeat;
+  background: url(./img/Check.png) no-repeat;
   background-position: center;
   width: 20px;
   height: 20px;
@@ -845,7 +845,7 @@ p {
   font-size: 18px;
 }
 .FAQ .FAQ-blocks-lr .FAQ-block__text-img {
-  background: url(/img/CaretRight.svg);
+  background: url(./img/CaretRight.svg);
   background-position: center;
   background-repeat: no-repeat;
   height: 20px;
@@ -871,7 +871,7 @@ p {
 }
 .FAQ .FAQ-blocks-lr .FAQ-block-acc ul li::before {
   content: "";
-  background: url(/img/check.svg);
+  background: url(./img/check.svg);
   position: absolute;
   left: -28px;
   top: -8px;
@@ -906,7 +906,7 @@ p {
   font-size: 18px;
 }
 .FAQ .FAQ-blocks-r .FAQ-block2__text2-img2 {
-  background: url(/img/CaretRight.svg);
+  background: url(./img/CaretRight.svg);
   background-position: center;
   background-repeat: no-repeat;
   height: 20px;
@@ -932,7 +932,7 @@ p {
 }
 .FAQ .FAQ-blocks-r .FAQ-block2-acc2 ul li::before {
   content: "";
-  background: url(/img/check.svg);
+  background: url(./img/check.svg);
   position: absolute;
   left: -28px;
   top: -8px;
@@ -941,7 +941,7 @@ p {
 }
 .FAQ .actImg2,
 .FAQ .actImg {
-  background: url(/img/CaretDown.svg) no-repeat !important;
+  background: url(./img/CaretDown.svg) no-repeat !important;
   transition: 0.3s;
   height: 11px !important;
   width: 18px !important;
